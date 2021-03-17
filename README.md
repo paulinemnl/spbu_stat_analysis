@@ -1,1 +1,0 @@
-# spbu_stat_analysis
